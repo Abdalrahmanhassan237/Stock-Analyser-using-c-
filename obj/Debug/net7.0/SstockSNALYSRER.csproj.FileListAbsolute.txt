@@ -1,0 +1,28 @@
+C:\Users\rebuytech\Documents\C# NOTES AND PROJECTS\SstockSNALYSRER\obj\Debug\net7.0\SstockSNALYSRER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebuytech\Documents\C# NOTES AND PROJECTS\SstockSNALYSRER\obj\Debug\net7.0\SstockSNALYSRER.AssemblyInfoInputs.cache
+C:\Users\rebuytech\Documents\C# NOTES AND PROJECTS\SstockSNALYSRER\obj\Debug\net7.0\SstockSNALYSRER.AssemblyInfo.cs
+C:\Users\rebuytech\Documents\C# NOTES AND PROJECTS\SstockSNALYSRER\obj\Debug\net7.0\SstockSNALYSRER.csproj.CoreCompileInputs.cache
+C:\Users\rebuytech\Documents\C# NOTES AND PROJECTS\SstockSNALYSRER\bin\Debug\net7.0\SstockSNALYSRER.exe
+C:\Users\rebuytech\Documents\C# NOTES AND PROJECTS\SstockSNALYSRER\bin\Debug\net7.0\SstockSNALYSRER.deps.json
+C:\Users\rebuytech\Documents\C# NOTES AND PROJECTS\SstockSNALYSRER\bin\Debug\net7.0\SstockSNALYSRER.runtimeconfig.json
+C:\Users\rebuytech\Documents\C# NOTES AND PROJECTS\SstockSNALYSRER\bin\Debug\net7.0\SstockSNALYSRER.dll
+C:\Users\rebuytech\Documents\C# NOTES AND PROJECTS\SstockSNALYSRER\bin\Debug\net7.0\SstockSNALYSRER.pdb
+C:\Users\rebuytech\Documents\C# NOTES AND PROJECTS\SstockSNALYSRER\obj\Debug\net7.0\SstockSNALYSRER.dll
+C:\Users\rebuytech\Documents\C# NOTES AND PROJECTS\SstockSNALYSRER\obj\Debug\net7.0\refint\SstockSNALYSRER.dll
+C:\Users\rebuytech\Documents\C# NOTES AND PROJECTS\SstockSNALYSRER\obj\Debug\net7.0\SstockSNALYSRER.pdb
+C:\Users\rebuytech\Documents\C# NOTES AND PROJECTS\SstockSNALYSRER\obj\Debug\net7.0\SstockSNALYSRER.genruntimeconfig.cache
+C:\Users\rebuytech\Documents\C# NOTES AND PROJECTS\SstockSNALYSRER\obj\Debug\net7.0\ref\SstockSNALYSRER.dll
+D:\Coding\C# Projects\SstockSNALYSRER\bin\Debug\net7.0\SstockSNALYSRER.exe
+D:\Coding\C# Projects\SstockSNALYSRER\bin\Debug\net7.0\SstockSNALYSRER.deps.json
+D:\Coding\C# Projects\SstockSNALYSRER\bin\Debug\net7.0\SstockSNALYSRER.runtimeconfig.json
+D:\Coding\C# Projects\SstockSNALYSRER\bin\Debug\net7.0\SstockSNALYSRER.dll
+D:\Coding\C# Projects\SstockSNALYSRER\bin\Debug\net7.0\SstockSNALYSRER.pdb
+D:\Coding\C# Projects\SstockSNALYSRER\obj\Debug\net7.0\SstockSNALYSRER.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C# Projects\SstockSNALYSRER\obj\Debug\net7.0\SstockSNALYSRER.AssemblyInfoInputs.cache
+D:\Coding\C# Projects\SstockSNALYSRER\obj\Debug\net7.0\SstockSNALYSRER.AssemblyInfo.cs
+D:\Coding\C# Projects\SstockSNALYSRER\obj\Debug\net7.0\SstockSNALYSRER.csproj.CoreCompileInputs.cache
+D:\Coding\C# Projects\SstockSNALYSRER\obj\Debug\net7.0\SstockSNALYSRER.dll
+D:\Coding\C# Projects\SstockSNALYSRER\obj\Debug\net7.0\refint\SstockSNALYSRER.dll
+D:\Coding\C# Projects\SstockSNALYSRER\obj\Debug\net7.0\SstockSNALYSRER.pdb
+D:\Coding\C# Projects\SstockSNALYSRER\obj\Debug\net7.0\SstockSNALYSRER.genruntimeconfig.cache
+D:\Coding\C# Projects\SstockSNALYSRER\obj\Debug\net7.0\ref\SstockSNALYSRER.dll
